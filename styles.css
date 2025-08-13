@@ -13,8 +13,8 @@ body {
 
 /* Hero section */
 header.hero {
-  /* Use a simple dark gradient background instead of an image so the site works without product photos */
-  background: linear-gradient(180deg, #111 0%, #222 100%);
+  /* Use a gym‑themed background image for the hero section */
+  background: url("assets/hero_gym.png") no-repeat center center/cover;
   color: #ffffff;
   height: 70vh;
   position: relative;
