@@ -14,7 +14,7 @@ body {
 /* Hero section */
 header.hero {
   /* Use a gym‑themed background image for the hero section */
-  background: url("assets/hero_gym.png") no-repeat center center/cover;
+  background: url("hero_gym.png") no-repeat center center/cover;
   color: #ffffff;
   height: 70vh;
   position: relative;
